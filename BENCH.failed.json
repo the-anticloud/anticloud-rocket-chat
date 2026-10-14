@@ -1,0 +1,10 @@
+{
+  "project": "ROCKET_CHAT",
+  "category": "CHAT_PLATFORMS",
+  "path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\CHAT_PLATFORMS\\ROCKET_CHAT",
+  "status": "failed",
+  "reason": "unreadable BENCH.json: 'metrics'",
+  "files_count": null,
+  "lines_of_code": null,
+  "sha": null
+}
