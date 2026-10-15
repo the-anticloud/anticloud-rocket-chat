@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:dcac7fda-00e3-5ba8-853a-313ed9101bb7",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-05T15:17:46Z",
+    "component": {
+      "type": "application",
+      "name": "ROCKET_CHAT",
+      "version": "889c0af89cde",
+      "bom-ref": "pkg:generic/anticloud/ROCKET_CHAT@889c0af89cde",
+      "purl": "pkg:generic/anticloud/ROCKET_CHAT@889c0af89cde",
+      "licenses": [
+        {
+          "license": {
+            "id": "NOASSERTION"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "889c0af89cde9ede06fa3250bc94bdac1a5f9a8d"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/RocketChat/Rocket.Chat.git"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
